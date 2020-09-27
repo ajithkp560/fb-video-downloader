@@ -1,0 +1,10 @@
+C:\Users\ajith\source\repos\FacebookVideoDownloader\bin\Debug\FacebookVideoDownloader.exe.config
+C:\Users\ajith\source\repos\FacebookVideoDownloader\bin\Debug\FacebookVideoDownloader.exe
+C:\Users\ajith\source\repos\FacebookVideoDownloader\bin\Debug\FacebookVideoDownloader.pdb
+C:\Users\ajith\source\repos\FacebookVideoDownloader\obj\Debug\FacebookVideoDownloader.csprojAssemblyReference.cache
+C:\Users\ajith\source\repos\FacebookVideoDownloader\obj\Debug\FacebookVideoDownloader.Properties.Resources.resources
+C:\Users\ajith\source\repos\FacebookVideoDownloader\obj\Debug\FacebookVideoDownloader.csproj.GenerateResource.cache
+C:\Users\ajith\source\repos\FacebookVideoDownloader\obj\Debug\FacebookVideoDownloader.csproj.CoreCompileInputs.cache
+C:\Users\ajith\source\repos\FacebookVideoDownloader\obj\Debug\FacebookVideoDownloader.exe
+C:\Users\ajith\source\repos\FacebookVideoDownloader\obj\Debug\FacebookVideoDownloader.pdb
+C:\Users\ajith\source\repos\FacebookVideoDownloader\obj\Debug\FacebookVideoDownloader.Form1.resources
